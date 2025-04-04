@@ -1,0 +1,2 @@
+C:/Users/jayan/Downloads/weather_app/android/app/.cxx/Debug/3d6r6u6j/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/jayan/Downloads/weather_app/android/app/.cxx/Debug/3d6r6u6j/x86_64/CMakeFiles/rebuild_cache.dir
